@@ -1,0 +1,13 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaaaa
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Saikai" tvg-shift="0" tvg-logo="https://advdmo.wordpress.com/wp-content/uploads/2015/11/digimon-adventure-tri-poster.jpg" group-title="Animes",Digimon Adventure Tri
+http://animezey.xyz/0:/Filmes/Anima%C3%A7%C3%A3o%20japonesa/Digimon%20Adventure%20tri.%201%20-%20Saikai/[Tenrou]%20Digimon%20Adventure%20tri.%201%20-%20Saikai%20[BD%201080p].mkv?a=view
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaaaa
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Ketsui" tvg-shift="0" tvg-logo="https://advdmo.wordpress.com/wp-content/uploads/2016/03/08141349238293.jpg" group-title="Animes",Digimon Adventure Tri
+http://animezey.xyz/1:/Filmes/Filmes%20Anima%C3%A7%C3%A3o%20(1019)/Digimon%20Adventure%20tri%20%202%20Ketsui%20(2016)/Digimon%20Adventure%20tri.%202%20Ketsui%20(2016).mkv?a=view
